@@ -1,0 +1,6 @@
+{
+  "Name": "Lists_and_Dictionaries_Demo",
+  "ProjectType": "Process",
+  "Description": "Using Dictionaries and Lists an item is added to the list of a dictionary-key pair, and an item is removed from a dictionary-key pair",
+  "MainFile": "Main.xaml"
+}
